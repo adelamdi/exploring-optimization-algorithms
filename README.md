@@ -1,0 +1,1 @@
+This repository delves into the domain of optimization algorithms.  We employ a hands-on approach, dedicating a separate Jupyter notebook to each algorithm or method.  While the in-depth exploration of each technique requires significant time, this repository aims to provide a concise review of the foundational mathematics and corresponding Python code for each algorithm.
